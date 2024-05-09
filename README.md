@@ -19,6 +19,8 @@ Let's connect and embark on this exciting journey together!
 ## 📄 My Stats
 - Check out my resume [here](https://resume.mayordesigns.com/).
 
+Don't mind my GitHub stats, I mostly work in GitLab 😁.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=amt-charles-biney&theme=onedark&column=10&theme=darkhub&margin-w=7&margin-h=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![amt-charles-biney's Stats](https://github-readme-stats.vercel.app/api?username=amt-charles-biney&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![amt-charles-biney's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amt-charles-biney&theme=react&hide_border=false)
