@@ -22,7 +22,7 @@ Let's connect and embark on this exciting journey together!
 ![amt-charles-biney's Stats](https://github-readme-stats.vercel.app/api?username=amt-charles-biney&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![amt-charles-biney's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amt-charles-biney&theme=react&hide_border=false)
 ![amt-charles-biney's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amt-charles-biney&theme=react&show_icons=true&hide_border=false&layout=compact)
-<p> <img src="https://komarev.com/ghpvc/?username=amt-charles-biney&label=Profile%20views&color=0e75b6&style=flat" alt="diego-rapoport" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=amt-charles-biney&theme=onedark&column=10&theme=darkhub&margin-w=7&margin-h=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,tailwind,nodejs,angular,react,nextjs,nestjs,postgres,php,git,flutter,ai,ps,xd)
