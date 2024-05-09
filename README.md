@@ -16,13 +16,13 @@ Let's connect and embark on this exciting journey together!
 - 🏡 I've been freelancing since completing high school in 2019, crafting bespoke solutions at [mayorDesigns](https://mayordesigns.com/).
 - 👨🏾‍🏫 Despite attending [Regent University](https://regent.edu.gh/) to learn Tech, I am largely self-taught.
 
-## 📄 Find Me Online
+## 📄 My Stats
 - Check out my resume [here](https://resume.mayordesigns.com/).
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=amt-charles-biney&theme=onedark&column=10&theme=darkhub&margin-w=7&margin-h=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ![amt-charles-biney's Stats](https://github-readme-stats.vercel.app/api?username=amt-charles-biney&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![amt-charles-biney's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amt-charles-biney&theme=react&hide_border=false)
 ![amt-charles-biney's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amt-charles-biney&theme=react&show_icons=true&hide_border=false&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=amt-charles-biney&theme=onedark&column=10&theme=darkhub&margin-w=7&margin-h=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,tailwind,nodejs,angular,react,nextjs,nestjs,postgres,php,git,flutter,ai,ps,xd)
