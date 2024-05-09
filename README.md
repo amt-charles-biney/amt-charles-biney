@@ -24,7 +24,7 @@ Let's connect and embark on this exciting journey together!
 ![amt-charles-biney's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amt-charles-biney&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,CSS,py,tailwind,nodejs,angular,react,nextjs,nestjs,postgres,php,git,flutter,ai,ps,xd,)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,tailwind,nodejs,angular,react,nextjs,nestjs,postgres,php,git,flutter,ai,ps,xd)
 
 ## 🌱 Currently Exploring
 
